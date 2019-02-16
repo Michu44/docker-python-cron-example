@@ -10,6 +10,7 @@ RUN apt-get install -y cron
 # Add crontab file in the cron directory
 ADD crontab /etc/cron.d/simple-cron
 
+# Install the prerequisits for the python project
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
