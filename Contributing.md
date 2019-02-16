@@ -93,4 +93,7 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 ## Attribution
 
-This contributing file is an adaption from the [Good-CONTRIBUTING.md-template.md][https://gist.github.com/PurpleBooth/b24679402957c63ec426] by [PurpleBooth][https://github.com/PurpleBooth]
+This contributing file is an adaption from the [Good-CONTRIBUTING.md-template.md][template] by [PurpleBooth][profile]
+
+[template]: https://gist.github.com/PurpleBooth/b24679402957c63ec426
+[profile]: https://github.com/PurpleBooth
