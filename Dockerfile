@@ -8,7 +8,7 @@ RUN apt-get update
 RUN apt-get install -y cron
 
 # Add crontab file in the cron directory
-ADD crontab /etc/cron.d/simple-cron
+ADD crontab /etc/cron.d/crontab
 
 # Install the prerequisits for the python project
 COPY requirements.txt ./
