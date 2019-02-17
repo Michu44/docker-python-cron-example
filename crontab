@@ -1,2 +1,2 @@
-0 0 7 1/1 * ? * root /usr/bin/python /python-cron-example/run.py
+0 0/1 * 1/1 * ? * root /usr/bin/python /python-cron-example/run.py
 # An empty line is rquired at the end of this file for a valid cron file.
